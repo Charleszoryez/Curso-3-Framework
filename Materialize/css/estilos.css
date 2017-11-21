@@ -1,3 +1,5 @@
-.encabezado{
-  min-height: 6rem !important;
+body{
+  background: url(../img/montanas-nevadas.jpg);
+  background-attachment: fixed;
+  background-repeat: round;
 }
